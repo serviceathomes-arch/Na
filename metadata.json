@@ -1,0 +1,6 @@
+{
+  "name": "CineFlow",
+  "description": "AI Text-to-Video Generator creating cinematic high-definition clips with multilingual prompt support, genre & style templates, and intelligent random prompt director.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
